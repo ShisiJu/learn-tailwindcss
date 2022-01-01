@@ -1,0 +1,8 @@
+/* ./src/tailwind.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-green {
+  @apply text-white bg-green-500 hover:bg-green-700;
+}

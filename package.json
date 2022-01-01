@@ -1,0 +1,22 @@
+{
+  "name": "learn-tailwindcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShisiJu/learn-tailwindcss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShisiJu/learn-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/ShisiJu/learn-tailwindcss#readme",
+  "dependencies": {
+    "tailwindcss": "^3.0.8"
+  }
+}
